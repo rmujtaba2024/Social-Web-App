@@ -1,5 +1,6 @@
 <h2> Close-Circle </h2>
 <h4> Full-Stack MERN Application </h4>
+<h4> MongoDB, Node.js, React, Express </h4>
 
 The project is a full-stack social media application built using the MERN stack. The front-end of the application is built using React, a popular JavaScript library for building user interfaces. React-Router is used for navigation within the application, allowing for seamless navigation between different pages. Formik and Yup are used for form validation, ensuring that all data entered into the application is accurate and in the proper format.
 
