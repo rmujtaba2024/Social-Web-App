@@ -11,5 +11,5 @@ The back end is saved on another repo.
 
 In summary, the MERN stack provides a comprehensive and powerful solution for building full-stack web applications, and this social media application is a great example of what can be achieved using this technology.
 
-![Alt Text](dark-login.png)
+![Alt Text](loginpage.png)
 ![Alt Text](dark-home-page.png)
