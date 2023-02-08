@@ -2,14 +2,11 @@
 <h4> Full-Stack MERN Application </h4>
 <h4> MongoDB, Node.js, React, Express </h4>
 
-The project is a full-stack social media application built using the MERN stack. The front-end of the application is built using React, a popular JavaScript library for building user interfaces. React-Router is used for navigation within the application, allowing for seamless navigation between different pages. Formik and Yup are used for form validation, ensuring that all data entered into the application is accurate and in the proper format.
+This project is a full-stack social media application that I built. The front-end of the app is built using React. To make navigation easy and smooth, I used React-Router. I also used Formik and Yup for form validation to make sure that all the data entered into the app is accurate and in the right format.
 
-State management is handled using Redux Toolkit, a powerful library that simplifies the use of Redux in React applications. Additionally, Redux-Persist is used to store files in local storage, allowing users to access their data even when they're offline.
+To manage the state of the app, I used Redux Toolkit. And to make sure that users can access their data even when they're offline, I used Redux-Persist to store data in local storage.
 
-On the back-end, the application is built using Node.js and Express. Mongoose is used to manage the MongoDB database, which stores all the data for the application. Json Web Token is used for authentication, ensuring that only authorized users can access the application. Finally, Multer is used for file upload, allowing users to upload images and other files to the application.
-The back end is saved on another repo.
-
-In summary, the MERN stack provides a comprehensive and powerful solution for building full-stack web applications, and this social media application is a great example of what can be achieved using this technology.
+The back-end of the app is built using Node.js and Express, and I used Mongoose to manage the MongoDB database where all the data for the app is stored. To make sure that only authorized users can access the app, I used Json Web Token for authentication. And for file upload, I used Multer, allowing users to upload images and other files to the app. The back-end code is saved in a separate repository.
 
 ![Alt Text](loginpage.png)
 ![Alt Text](dark-home-page.png)
