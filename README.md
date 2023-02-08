@@ -1,5 +1,5 @@
 <h2> Close-Circle </h2>
-<h4> Full-Stack MERN Application </h4>
+
 <h4> MongoDB, Node.js, React, Express </h4>
 
 This project is a full-stack social media application that I built. The front-end of the app is built using React. To make navigation easy and smooth, I used React-Router. I also used Formik and Yup for form validation to make sure that all the data entered into the app is accurate and in the right format.
